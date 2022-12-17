@@ -1,0 +1,23 @@
+{
+  "name": "mouredev---code-challenges",
+  "version": "1.0.0",
+  "description": "My answers to Mouredev Code Challenges",
+  "main": "reto0.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YersonFGalvis/MoureDev-Code-Challenges.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YersonFGalvis/MoureDev-Code-Challenges/issues"
+  },
+  "homepage": "https://github.com/YersonFGalvis/MoureDev-Code-Challenges#readme",
+  "dependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
